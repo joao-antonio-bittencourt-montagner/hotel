@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Secao014 {
+module Hotel {
 }
